@@ -67,7 +67,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/shunlog/pm-ai-notes' }
+      { icon: 'github', link: 'https://github.com/ShunL12324/pm-ai-notes' }
     ],
 
     search: {
